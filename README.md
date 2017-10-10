@@ -12,7 +12,7 @@ Stereotyping in games especially females
 ## Question
 What are the negative effects on females with the misrepresentation of females the way they are portrayed in the games industry.
 
-
+With the games industry being worth $90 billion a year and constantly expanding out to a larger audience everyday, how important is it to make games female friendly and ensure females aren't portrayed too hypersexual. People often stereotype gamers to be young boys but a study showed the average age of gamers in the US is 35 years old. Female gamers are stereotyped the most but with several studies being done over the past few years showing the number of women gamers increasing, should game developers be forced to change the way they stereotype women in video games and change the way games are made by adding in playable female characters. Do the negative views from the typical male gamer effect the amount of female workers in industry as they only make up 14% in the UK. With everyone having different ethics it is hard to come up with a standard that suits everyone. However at the other end of the spectrum is it wrong to limit their creativity but at what cost does it have to females.
 
 Sources: 
 1. Understanding the impact of QPOC representation in video games 
@@ -50,3 +50,12 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1328205&CFID=993616670
 
 12. Playing the game: effective gender role analysis techniques for computer games
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2071566&CFID=993616670&CFTOKEN=79560991
+
+13. Why are there so few female game developers?
+http://www.unite-it.eu/profiles/blogs/why-are-so-few-women-developing-video-games
+
+14. Beyond 50/50: Breaking Down The Percentage of Female Gamers by Genre
+https://quanticfoundry.com/2017/01/19/female-gamers-by-genre/
+
+15. The video game industry has a diversity problem – but it can be fixed
+https://www.theguardian.com/technology/2017/mar/15/video-game-industry-diversity-problem-women-non-white-people
