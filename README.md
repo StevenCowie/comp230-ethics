@@ -10,7 +10,7 @@ Should all games have a set standard of morals all developers should follow
 Stereotyping in games especially females
 
 ## Question
-What are the negative effects on the gaming industry as a whole with the misrepresentation of females.
+What are the negative effects on females with the misrepresentation of females the way they are portrayed in the games industry.
 
 Sources: 
 1. Understanding the impact of QPOC representation in video games 
