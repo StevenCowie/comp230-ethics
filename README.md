@@ -28,11 +28,11 @@ http://www.radford.edu/~mzorrilla2/thesis/gamerepresentation.html
 5. #Gamergate Controversy Fuels Debate On Women And Video Games
 http://www.npr.org/sections/alltechconsidered/2014/09/24/349835297/-gamergate-controversy-fuels-debate-on-women-and-video-games
 
-6. 
+6. Effects of Gender on Perception and Interpretation of Video Game Character Behavior and Emotion
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7470609/
 
-
-7.
-
+7. Impact of video game experience and gender differences in educational video games
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5420089/
 
 8.
 
