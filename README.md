@@ -12,6 +12,8 @@ Stereotyping in games especially females
 ## Question
 What are the negative effects on females with the misrepresentation of females the way they are portrayed in the games industry.
 
+
+
 Sources: 
 1. Understanding the impact of QPOC representation in video games 
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7836164/citations
@@ -34,11 +36,11 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7470609/
 7. Impact of video game experience and gender differences in educational video games
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/5420089/
 
-8.
+8. Hypersexual avatars: who wants them?
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1178516&CFID=993616670&CFTOKEN=79560991
 
-
-9.
-
+9. Fear of failure: gender differences in older adult gamers
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2282405&CFID=993616670&CFTOKEN=79560991
 
 10.
 
