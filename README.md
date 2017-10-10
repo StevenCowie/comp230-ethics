@@ -42,10 +42,11 @@ https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1178516&CFID=993616670
 9. Fear of failure: gender differences in older adult gamers
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2282405&CFID=993616670&CFTOKEN=79560991
 
-10.
+10. Computer games and ethical issues
+http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7011160/
 
-
-11.
-
+11. Girls playing games: rethinking stereotypes
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1328205&CFID=993616670&CFTOKEN=79560991
 
 12.
+
