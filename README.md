@@ -48,5 +48,5 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7011160/
 11. Girls playing games: rethinking stereotypes
 https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=1328205&CFID=993616670&CFTOKEN=79560991
 
-12.
-
+12. Playing the game: effective gender role analysis techniques for computer games
+https://dl-acm-org.ezproxy.falmouth.ac.uk/citation.cfm?id=2071566&CFID=993616670&CFTOKEN=79560991
